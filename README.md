@@ -122,7 +122,7 @@ Predict labels for every graph in:
 
 ### Step 3: Prepare your submission files
 
-Create a `metadata.json` that c ontains metadata about your submission:
+Create a `metadata.json` that contains metadata about your submission:
 
 ```json
 {
@@ -143,7 +143,7 @@ id,y_pred
 3,1
 ...
 ```
-Encrypt your `predictions.csv` using: ``` python  extra/encrypt.py predictions.csv ```. Then put  `predictions.csv.enc`) in the **`submissions/`** folder.  
+Encrypt your `predictions.csv` using: ``` python  extra/encrypt.py predictions.csv ```. Then put  `predictions.csv.enc` and `metadata.json` in the **`submissions/`** folder.  
 **Note:** ❗ Do NOT upload the raw CSV. You need to submit an **encrypted** version of your predictions file to keep privacy.
 
 ### Step 4: Encrypt your submission
