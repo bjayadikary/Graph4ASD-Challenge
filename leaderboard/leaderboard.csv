@@ -3,3 +3,4 @@ Murad-Hossen,2026-03-07 17:31:39 UTC,murad_hossen,murad_hossen_2026-03-05,human,
 ignatiusbalayo,2026-03-09 16:34:02 UTC,Ignatius B,run_001,human,GraphSAGE,0.421719,0.535948,0.524476,0.961538
 tasneem-mselim,2026-03-13 08:18:42 UTC,Tasneem Selim,run_1,human,GCN,0.435957,0.437908,0.439394,0.371795
 hadilaff,2026-03-20 15:03:40 UTC,hadil,run_4_threshold_0.5,human+llm,GIN,0.417978,0.470588,0.487603,0.75641
+gururgg,2026-03-24 09:42:52 UTC,gururgg,run_01,human,Graph Transformer,0.610115,0.614379,0.604396,0.705128

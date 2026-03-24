@@ -1,7 +1,8 @@
 # Leaderboard
 | Rank | Team | Model | Type | Macro-F1 | Date (UTC) |
 |------|------|-------|------|----------|------------|
-| 1 | murad_hossen | `GCN` | human | 0.592666 | 2026-03-07 17:31:39 UTC |
-| 2 | Tasneem Selim | `GCN` | human | 0.435957 | 2026-03-13 08:18:42 UTC |
-| 3 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
-| 4 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
+| 1 | gururgg | `Graph Transformer` | human | 0.610115 | 2026-03-24 09:42:52 UTC |
+| 2 | murad_hossen | `GCN` | human | 0.592666 | 2026-03-07 17:31:39 UTC |
+| 3 | Tasneem Selim | `GCN` | human | 0.435957 | 2026-03-13 08:18:42 UTC |
+| 4 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
+| 5 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
